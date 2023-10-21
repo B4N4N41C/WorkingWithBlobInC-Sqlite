@@ -1,0 +1,14 @@
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\bin\Debug\SQLite.dll
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\bin\Debug\SQLite.NET.dll
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\bin\Debug\SQLite3.dll
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\bin\Debug\CS_SQLite_blob.exe.config
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\bin\Debug\CS_SQLite_blob.exe
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\bin\Debug\CS_SQLite_blob.pdb
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\obj\x86\Debug\CS_SQLite_blob.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\obj\x86\Debug\CS_SQLite_blob.Form1.resources
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\obj\x86\Debug\CS_SQLite_blob.Properties.Resources.resources
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\obj\x86\Debug\CS_SQLite_blob.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\obj\x86\Debug\CS_SQLite_blob.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\obj\x86\Debug\CS_SQLite_blob.csproj.CopyComplete
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\obj\x86\Debug\CS_SQLite_blob.exe
+\\Mac\Home\Downloads\CS_SQLite_blob-master\CS_SQLite_blob\obj\x86\Debug\CS_SQLite_blob.pdb
